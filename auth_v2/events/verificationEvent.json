@@ -1,0 +1,5 @@
+{
+    "body": "{\"token\": \"your-jwt-token\"}",
+    "httpMethod": "POST"
+  }
+  
